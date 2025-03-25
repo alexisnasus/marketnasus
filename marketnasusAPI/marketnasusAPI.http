@@ -1,0 +1,6 @@
+@marketnasusAPI_HostAddress = http://localhost:5152
+
+GET {{marketnasusAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
